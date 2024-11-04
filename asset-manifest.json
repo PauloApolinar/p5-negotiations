@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/p5-negotiations/static/css/main.79a6c4d5.css",
+    "main.js": "/p5-negotiations/static/js/main.75ba4a64.js",
+    "index.html": "/p5-negotiations/index.html",
+    "main.79a6c4d5.css.map": "/p5-negotiations/static/css/main.79a6c4d5.css.map",
+    "main.75ba4a64.js.map": "/p5-negotiations/static/js/main.75ba4a64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79a6c4d5.css",
+    "static/js/main.75ba4a64.js"
+  ]
+}
